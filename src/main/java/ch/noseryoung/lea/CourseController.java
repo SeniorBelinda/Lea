@@ -43,12 +43,4 @@ public class CourseController {
 		Course course2 = new Course(new Long(2),"module223");
 		return new ResponseEntity<>(Arrays.asList(course1,course2), HttpStatus.OK);
 	}
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 }
-=======
-}
->>>>>>> Stashed changes
-=======
-}
->>>>>>> Stashed changes
