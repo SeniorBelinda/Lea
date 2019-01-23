@@ -44,7 +44,11 @@ public class CourseController {
 		return new ResponseEntity<>(Arrays.asList(course1,course2), HttpStatus.OK);
 	}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>> Stashed changes
 =======
 }
 >>>>>>> Stashed changes
