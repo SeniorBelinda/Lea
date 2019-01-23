@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 /**
  * 
  * @author schuehle
- *
+ * 
  */
 
 @SpringBootApplication
