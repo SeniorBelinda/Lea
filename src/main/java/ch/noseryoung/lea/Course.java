@@ -1,6 +1,9 @@
 package ch.noseryoung.lea;
+<<<<<<< Updated upstream
 
 
+=======
+>>>>>>> Stashed changes
 /**
  * Holds all specifications of a specific course
  *
@@ -11,11 +14,14 @@ public class Course {
 	private Long id;
 	private String subject;
 	
+<<<<<<< Updated upstream
 	
 	public Course() {
 		
 	}
 	
+=======
+>>>>>>> Stashed changes
 	/**
 	 * @param id
 	 * @param subject
